@@ -1,4 +1,6 @@
 # ethereum-cryptography
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fjs-ethereum-cryptography.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fjs-ethereum-cryptography?ref=badge_shield)
+
 
 [Audited](#security) pure JS library containing all Ethereum-related cryptographic primitives. Implemented with 6 [noble & scure](https://paulmillr.com/noble/) dependencies.
 
@@ -513,3 +515,6 @@ Copyright (c) 2018 cryptocoinjs
 
 [1]: https://www.npmjs.com/package/ethereum-cryptography
 [2]: https://github.com/ethereum/js-ethereum-cryptography/blob/master/packages/ethereum-cryptography/LICENSE
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fjs-ethereum-cryptography.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fjs-ethereum-cryptography?ref=badge_large)
